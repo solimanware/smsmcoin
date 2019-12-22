@@ -14,7 +14,7 @@ it's a hello world project for creating a coin using Blockchain very basics
 
 and it calculates the block hash
 
-## BlockChain Class 
+## Blockchain Class 
 ### Constructor:
 
 it contains the chain of blocks inside the blockchain
